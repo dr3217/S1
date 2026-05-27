@@ -1,0 +1,6 @@
+[submodule "S11"]
+	path = S11
+	url = git@github.com:dr3217/S11.git
+[submodule "S12"]
+	path = S12
+	url = git@github.com:dr3217/S12.git
